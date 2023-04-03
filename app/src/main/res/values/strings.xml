@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Springfield News</string>
+    <string name="breaking_news">Work on a portion of the $4.6 million renovation project...</string>
+    <string name="article_name">Clark County Propane Explosion</string>
+    <string name="article_name2">Parts of $4.6 million Clark County project on hold after Home Road explosion</string>
+    <string name="back">Back</string>
+    <string name="to_article">Go to article</string>
+    <string name="featured_article">\t\tWork on a portion of the $4.6 million renovation project at the Home Road campus of the Clark County Department of Job and Family Services has paused because of last week’s propane tank explosion. The project includes improvements to a few buildings and parking lots in the 500 block of East Home Road near the Clark County Combined Health District. \n\n\t\tThe complex will be used for services geared toward benefiting children in Clark County, according to Clark County Department of Job and Family Services director Ginny Martycz. Work on a portion of the $4.6 million renovation project at the Home Road campus of the Clark County Department of Job and Family Services has paused because of last week’s propane tank explosion.</string>
+    <string name="article_1">Eight Springfield football players sign to play at next level</string>
+    <string name="article_2">WWII vet ‘Pee Wee’ Martin willed home to township. Now it wants to sell it to granddaughter for $401K</string>
+</resources>
